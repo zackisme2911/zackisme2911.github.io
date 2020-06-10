@@ -1,0 +1,77 @@
+{
+	margin: 0;
+	padding: 0;
+}
+#wrapper{
+	width: 965px;
+	height: 1150px;
+	background: white;
+	margin: 0 auto;
+}
+.header{
+	width: 965px;
+	height: 170px;
+	background: red;
+}
+.top-bar{
+	width: 965px;
+	height: 55px;
+	background: black;
+}
+.top-bar img{
+	margin-top: 12.5px;
+	width: 30px;
+	float: right;
+	margin-right: 5px;
+}
+.header-main{
+	width: 965px;
+	height: 115px;
+	background: yellow;
+}
+.header-main .logo img{
+	width: 153px;
+	margin-bottom: auto;
+}
+.header-main .logo{
+	width: 345px;
+	height: 115px;
+	float: left;
+	background: #2cb1eb;
+}
+.header-main .menu{
+	width: 620px;
+	height: 115px;
+	float: right;
+	background: blue;
+}
+.header-main .menu ul{
+	list-style: none;
+	width: 580px;
+	height: 50px;
+}
+.header-main .menu ul li{
+	float: left;
+	margin-left: 100px;
+	width: 50px;
+	text-align: center;
+}
+.header-main .menu ul li a{
+	text-decoration: none;
+	color: white;
+	font-size: 20px
+}
+.header-main .menu ul li a:hover{
+	color: aqua;
+	box-shadow: 25px 10px 5px -5px rgba(0,0,0,0.75);
+}
+/*Header*/
+.banner{
+	width: 965px;
+	height: 480px;
+	background: white;
+}
+.banner img{
+	width: 200px;
+	height: 295px;
+}
